@@ -7,6 +7,14 @@ It's written as a demonstration and proof of concept, and is about as far from
 production-ready as a piece of software could be. But it does look a lot like
 the first version of the proxy that powers Genius annotations across the web.
 
+This repository serves as the show notes for our presentation at [Code
+Genius](http://code.genius.com), in which we live coded roughly what you see in
+`server.rb`.
+
+### Video of the presentation
+
+Watch this space.
+
 ## Installing and running it
 
 * Clone the repo
