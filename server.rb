@@ -10,7 +10,7 @@ class Server < Goliath::API
 
     body = upstream_request.response.sub(
       '<head>',
-      %(<head><base href="#{upstream_url}"><script src="//genius.codes"></script>)
+      %(<head><base href="#{upstream_url}"><script async src="//genius.codes"></script>)
     )
 
     Rack::Response.new(body)
