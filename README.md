@@ -13,7 +13,7 @@ Genius](http://code.genius.com), in which we live coded roughly what you see in
 
 ### Video of the presentation
 
-Watch this space.
+Watch [Mat Brown's presentation.](https://www.youtube.com/watch?v=5WuPFUoqxbI)
 
 ## Installing and running it
 
